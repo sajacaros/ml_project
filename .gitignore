@@ -280,3 +280,5 @@ $RECYCLE.BIN/
 *.csv
 
 data/
+
+.ipynb_checkpoints
